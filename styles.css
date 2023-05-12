@@ -1,0 +1,57 @@
+#homepage-color {
+    background-color: aqua;
+}
+#homepage-color img {
+    height: auto;
+    width: 200px;
+}
+#index-head-color {
+    color: red;
+}
+#bullet-color-one {
+    color: pink;
+}
+#link-color-one {
+    color: orange;
+}
+#bullet-color-two {
+    color: magenta;
+}
+#link-color-two {
+    color: yellow;
+}
+#bullet-color-three {
+    color: lightskyblue;
+}
+#link-color-three {
+    color: lightcoral;
+}
+
+
+#burger-color {
+    background-color: teal;
+}
+#burger {
+    height: auto;
+    width: 200px;
+}
+
+
+
+#omelet-color {
+    background-color: pink;
+}
+#omelet {
+    height:200px;
+    width: 200px;
+}
+
+
+
+#milk-color {
+    background-color: bisque;
+}
+#milk {
+    height:auto;
+    width: 200px;
+}
