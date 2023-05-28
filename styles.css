@@ -1,34 +1,28 @@
-#homepage-color {
-    background-color: aqua;
+body {
+    background-color: navy;
 }
-#homepage-color img {
+body img {
     height: auto;
     width: 200px;
 }
-#index-head-color {
+.index-head-color {
     color: red;
 }
-#bullet-color-one {
+
+.bullet-color-one,s
+.bullet-color-two,
+.bullet-color-three {
     color: pink;
 }
-#link-color-one {
-    color: orange;
-}
-#bullet-color-two {
-    color: magenta;
-}
-#link-color-two {
-    color: yellow;
-}
-#bullet-color-three {
-    color: lightskyblue;
-}
-#link-color-three {
-    color: lightcoral;
+
+.link-color-one,
+.link-color-two,
+.link-color-three {
+    color: blueviolet;
 }
 
 
-#burger-color {
+.burger-color {
     background-color: teal;
 }
 #burger {
@@ -38,7 +32,7 @@
 
 
 
-#omelet-color {
+.om-color {
     background-color: pink;
 }
 #omelet {
@@ -48,7 +42,7 @@
 
 
 
-#milk-color {
+.milk-color {
     background-color: bisque;
 }
 #milk {
