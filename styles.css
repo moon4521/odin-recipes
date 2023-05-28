@@ -1,18 +1,32 @@
 body {
-    background-color: navy;
-}
-body img {
-    height: auto;
-    width: 200px;
-}
-.index-head-color {
-    color: red;
+    background-color: gray;
 }
 
-.bullet-color-one,s
+.Recipe-card {
+    width: 400px;
+    background-color: bisque;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.index-head-color {
+    background: teal;
+    color: red;
+    text-align: center;
+    margin: auto;
+}
+
+.Recipe-card img {
+    height: auto;
+    width: 200px;
+    margin-top: 8px;
+    margin-left: 100px;
+}
+
+.bullet-color-one,
 .bullet-color-two,
 .bullet-color-three {
-    color: pink;
+    color: black;
 }
 
 .link-color-one,
@@ -21,15 +35,66 @@ body img {
     color: blueviolet;
 }
 
+.bullet-color-one {
+    background: red;
+}
+
+.bullet-color-two {
+    margin-top: 8px;
+    margin-left: 50px;
+    background: blue;
+}
+
+.bullet-color-three {
+    margin-top: 8px;
+    margin-left: 100px;
+    background: green;
+}
+
 
 .burger-color {
+    width: 400px;
     background-color: teal;
+    margin: 16px auto;
 }
+
+.burger-title {
+    color: red;
+    text-align: center;
+    background: blue;
+}
+
 #burger {
     height: auto;
     width: 200px;
+    margin-left: 100px;
 }
 
+.burger-color h2 {
+    color: lightcoral;
+    text-align: center;
+    background: blue;
+}
+
+.burger-color p {
+    color: lightpink;
+    text-align: center;
+}
+
+.list-one {
+    margin-left: 120px;
+    background: red;
+}
+
+.list-two {
+    margin-left: 120px;
+    background: green;
+}
+
+.burger-color a {
+    margin-left: 120px;
+    background: tan;
+}
 
 
 .om-color {
